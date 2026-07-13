@@ -1,1 +1,15 @@
- {"host":"ur-relay.fly.dev","port":443,"tls":true,"maintenance":false,"message":""}
+{
+  "host": "ur-relay.fly.dev",
+  "port": 443,
+  "tls": true,
+  "maintenance": false,
+  "message": "",
+  "ads": {
+    "enabled": false,
+    "postgameInterstitialEveryN": 3,
+    "minIntervalMinutes": 3,
+    "gameBanner": false,
+    "interstitialOnResign": false,
+    "protectFirstGame": true
+  }
+}
