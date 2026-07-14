@@ -5,11 +5,11 @@
   "maintenance": false,
   "message": "",
   "ads": {
-    "enabled": false,
-    "postgameInterstitialEveryN": 3,
+    "enabled": true,
+    "postgameInterstitialEveryN": 1,
     "minIntervalMinutes": 3,
     "gameBanner": false,
-    "interstitialOnResign": false,
+    "interstitialOnResign": true,
     "protectFirstGame": true
   }
 }
