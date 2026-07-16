@@ -5,7 +5,7 @@
   "maintenance": false,
   "message": "",
   "ads": {
-    "enabled": true,
+    "enabled": false,
     "postgameInterstitialEveryN": 3,
     "minIntervalMinutes": 3,
     "gameBanner": true,
